@@ -1,0 +1,8 @@
+﻿  main.cpp
+  MainGame.cpp
+c:\users\kioshishi\desktop\sdlproject\sdlproject\maingame.cpp(55): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\kioshishi\desktop\sdlproject\sdlproject\maingame.cpp(76): warning C4244: 'argument': conversion from 'float' to 'Uint32', possible loss of data
+c:\users\kioshishi\desktop\sdlproject\sdlproject\maingame.cpp(176): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\kioshishi\desktop\sdlproject\sdlproject\maingame.cpp(177): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+  Generating Code...
+  SDLProject.vcxproj -> C:\Users\Kioshishi\Desktop\SDLProject\Debug\SDLProject.exe
